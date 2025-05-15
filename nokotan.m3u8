@@ -3,9 +3,11 @@
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:2.080000,
-https://raw.githubusercontent.com/bmrhat/track/refs/heads/main/nokotan-ads0.ts
+nokotan0.ts
 #EXTINF:2.080000,
-https://raw.githubusercontent.com/bmrhat/track/refs/heads/main/nokotan-ads1.ts
-#EXTINF:1.840000,
-https://raw.githubusercontent.com/bmrhat/track/refs/heads/main/nokotan-ads2.ts
+nokotan1.ts
+#EXTINF:2.080000,
+nokotan2.ts
+#EXTINF:0.760000,
+nokotan3.ts
 #EXT-X-ENDLIST
